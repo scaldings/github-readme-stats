@@ -262,6 +262,12 @@ const themes = {
     icon_color: "a64833",
     text_color: "d9c8a9",
     bg_color: "402b23"
+  },
+  fulvous: {
+    title_color: "E98A15",
+    icon_color: "FFF94F",
+    text_color: "ECE5F0",
+    bg_color: "885A5A"
   }
 };
 
